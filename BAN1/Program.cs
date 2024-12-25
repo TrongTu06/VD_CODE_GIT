@@ -11,6 +11,7 @@ namespace BAN1
         static void Main(string[] args)
         {
             Console.WriteLine("xin chao VN");
+            Console.WriteLine("toi 18 tuoi");
             Console.ReadLine();
         }
     }
